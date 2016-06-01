@@ -1,6 +1,8 @@
-# Bootstrap 3 Grid for Sass
+# Bootstrap Grid for Sass
 
 This forked from a Sass-powered version of [Bootstrap 3](https://github.com/twbs/bootstrap).
+
+Currently based on Bootstrap 3.3.1
 
 Example folder structure for the grid usage:
 
