@@ -1,6 +1,6 @@
 # Bootstrap Grid for Sass
 
-This forked from a Sass-powered version of [Bootstrap 3](https://github.com/twbs/bootstrap).
+This is forked from a Sass-powered version of [Bootstrap 3](https://github.com/twbs/bootstrap).
 
 Currently based on Bootstrap 3.3.1
 
